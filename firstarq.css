@@ -1,0 +1,97 @@
+h1{
+    color: rgb(15, 20, 25);
+}
+h2{
+    color: rgb(83,100,113);
+}
+button{
+    border-radius: 15%;
+}
+.list{
+    list-style: none;
+}
+.list li:hover{
+    background-color: rgba(15, 25, 20, 0.1);
+    border-radius: 10%;
+}
+.list a{
+    color:rgb(15,20,25);
+}
+.list2 {
+    color:rgb(83, 100, 113);
+    border-radius: 10%;
+}
+.list2:hover{
+    background-color:rgba(15, 25, 20, 0.1);
+}
+#description{
+    color: rgb(15,20,25);
+}
+#localstart li{
+    color: rgb(83, 100, 113);
+    list-style: none;
+    display: inline;
+}
+#informations li{
+    list-style: none;
+    display: inline;
+}
+body{
+    background-color: white;
+}
+img{
+    width: 20px;
+    height: 20px;
+}
+a{
+    text-decoration: none;
+    
+}
+#profile{
+    width: 64px;
+    height: 64px;
+    border-radius: 100%;
+}
+.numbers{
+    color: rgb(15, 20, 25);
+    font-weight: bold;
+}
+.numbers:hover{
+    text-decoration: underline;
+}
+.words{
+    color: rgb(83, 100, 113);
+}
+.link2 a{
+    color:rgb(83, 100, 113);
+}
+.replyandshare:hover{
+    background-color: rgb(29,155,240,0.1);
+    color:rgba(29, 155, 240, 1);
+    border-radius:5%;
+}
+.retzeet:hover{
+    background-color:rgba(0, 186, 124, 0.1);
+    color:rgba(0, 186, 124, 1);
+    text-decoration: underline;
+    border-radius: 45%;
+    border-radius:5%;
+}
+.like:hover{
+    background-color:rgba(249, 24, 128, 0.1);
+    color: rgba(249, 24, 128, 1);
+    text-decoration: underline;
+    border-radius:5%;
+}
+#user{
+    color:rgb(15, 20, 25)
+}
+#arroba{
+    color:rgb(83, 100, 113)
+}
+#mesage{
+    color:rgb(15,20,25) ;
+}
+#mesage:hover{
+    background-color: rgba(249, 24, 128, 0.1);
+}
